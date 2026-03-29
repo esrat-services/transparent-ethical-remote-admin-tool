@@ -103,4 +103,10 @@ For any questions, support, or community engagement, please reach out to our ded
 
 ---
 
+## 📊 Project Statistics
+
+Views counter enabled on **19 Oct 2024 Sat**
+
+[![Profile Visitors](https://u8views.com/api/v1/github/profiles/150267024/views/day-week-month-total-count.svg)](https://u8views.com/github/ES-UNIVERSE)
+
 **The Ultimate Parental Control & Remote Administration Platform** - Empowering families with advanced tools for a safer, more connected digital world. 🌐👨‍👩‍👧‍👦
